@@ -1,0 +1,1 @@
+# gitmodules-test-origin
