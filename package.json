@@ -2,5 +2,9 @@
   "name": "gitmodules-test-origin",
   "version": "1.0.0",
   "dependencies": {
+  },
+  "scripts": {
+    "submodules:init": "git submodule add https://github.com/leslie846933/gitmodules-test-external.git pages/console",
+    "submodules:update": "git submodule update --remote"
   }
 }
