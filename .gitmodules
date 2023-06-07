@@ -1,0 +1,3 @@
+[submodule "pages/console"]
+	path = pages/console
+	url = https://github.com/leslie846933/gitmodules-test-external.git
